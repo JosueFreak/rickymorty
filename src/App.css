@@ -1,0 +1,14 @@
+.App{
+    background-color: rgb(0, 0, 0);
+}
+
+.imagendefondo{
+    background-image: url(img/wallpaperbetter.com_1920x1080.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+header{
+    display: block;
+}

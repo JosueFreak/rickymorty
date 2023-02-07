@@ -1,0 +1,33 @@
+.location_info{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 15px;
+    background-color: #062226;
+    color: #fff;
+}
+
+.locationInfo_title{
+    text-align: center;
+    color: #43c318;
+}
+
+h2{
+    margin: 0;
+}
+
+.locationInfo_list{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.locationInfo_one{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}

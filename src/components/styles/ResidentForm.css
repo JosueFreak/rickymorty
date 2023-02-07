@@ -1,0 +1,23 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.formulario_input{
+    width: 100%;
+    border: none;
+    background-color: #c0f090;
+    padding: 8px;
+    color: #000;
+    outline: none;
+}
+
+.form_button{
+    border: none;
+    background-color: #3bd707;
+    padding: 8px;
+    font-weight: 700;
+    cursor: pointer;
+}
